@@ -20,10 +20,12 @@ modernas, escalables y mantenibles.
 🔧 Control de versiones con Git y GitHub  
 📚 Aprendizaje continuo y buenas prácticas de desarrollo
 
-Actualmente trabajo en:
+## 💼 Actualmente
 
-🏢 **LARSAX Soluciones Tecnológicas**  
-🏢 **Interamericana Norte**
+| 🏢 Organización | 💻 Actividad |
+| --- | --- |
+| [**LARSAX Soluciones Tecnológicas**](https://www.larsaxweb.com/) | Desarrollo de soluciones tecnológicas |
+| [**Interamericana Norte**](https://interamericananorte.com/) | Soluciones y sistemas empresariales |
 
 ---
 
