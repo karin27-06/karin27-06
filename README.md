@@ -27,16 +27,6 @@ modernas, escalables y mantenibles.
 | [**LARSAX Soluciones Tecnológicas**](https://www.larsaxweb.com/) | Desarrollo de soluciones tecnológicas |
 | [**Interamericana Norte**](https://interamericananorte.com/) | Soluciones y sistemas empresariales |
 
-## 💼 Actualmente
-
-🏢 [LARSAX Soluciones Tecnológicas](https://www.tupagina.com)  
-🏢 [Interamericana Norte](https://www.tupagina.com)
-
-## 💼 Actualmente trabajo en
-
-🏢 [**LARSAX Soluciones Tecnológicas**](https://www.tupagina.com)  
-🏢 [**Interamericana Norte**](https://www.tupagina.com)
-
 ---
 
 ## 🛠️ Tech Stack
